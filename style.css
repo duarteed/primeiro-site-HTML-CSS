@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	width: 80%;
+	max-width: 300px;
+	border: 4px solid #000;
+	margin: 10%;
+}
+
+.card {
+	text-align: center;
+	border: 10px solid #000;
+	width: 95%;
+	max-width: 600px;
+	
+	margin: 0 auto;
+	background-color: #FF9176;
+}
+
+.titulo {
+	font-size: 48px;
+	color: #000;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #FF3200;
+}
+.txt {
+	font-size: 16px;
+			
+}
+
+button {
+	cursor: pointer;
+	background: #FF3200;
+	color: #000;
+	border-style: outset;
+	border-color: #000;
+	width: 60%;
+	margin: 20px 0;
+	padding: 16px;
+	text-shadow: none;
+}
+
+button:hover {
+	background: #b45a44;
+}
